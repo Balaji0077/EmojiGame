@@ -1,0 +1,18 @@
+/* Write your code here. */
+* {
+  font-family: 'Roboto';
+}
+.home-container {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+}
+.Emojis-list {
+  min-height: 90vh;
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 10px;
+}
